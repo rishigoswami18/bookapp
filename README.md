@@ -33,7 +33,7 @@ _Add screenshots here if you'd like (just upload and link them)_
 
 ## 📱 Download the App
 
-➡️ [Click here to download BookApp]([https://your-download-link.com](https://drive.google.com/file/d/1UdSoGKOZzhC2EyGzMZFRh47aA6sY-lY-/view?usp=drive_link))  
+➡️ [Click here to download BookApp]((https://drive.google.com/file/d/1UdSoGKOZzhC2EyGzMZFRh47aA6sY-lY-/view?usp=drive_link))  
 > _Available for Android (APK)_
 
 ---
