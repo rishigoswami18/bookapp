@@ -33,7 +33,7 @@ _Add screenshots here if you'd like (just upload and link them)_
 
 ## 📱 Download the App
 
-[![Download BookApp](https://img.shields.io/badge/⬇️%20Download-BookApp-blue?style=for-the-badge)](https://drive.google.com/file/d/1UdSoGKOZzhC2EyGzMZFRh47aA6sY-lY-/view?usp=drive_link)
+[![Download BookApp](https://img.shields.io/badge/⬇️%20Download-BookApp-blue?style=for-the-badge)](https://drive.google.com/file/d/1WaeZpPJs7JNPpCgJqXXy-RzRSBSibi8p/view?usp=drive_link)
 
 > _Click the button above to download the latest APK from Google Drive._
 
